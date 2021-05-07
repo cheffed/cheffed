@@ -2,11 +2,11 @@
 
 **As you can see, I like making things in python:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expIoits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheffed&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Here are some of my projects:**  (I like using discord)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheffed&repo=Sinister-Nuker&show_icons=true&theme=radical)](https://github.com/expIoits/Sinister-Nuker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheffed&repo=Sinister-Nuker&show_icons=true&theme=radical)](https://github.com/cheffed/Sinister-Nuker)
 
 
 **Finally, here are my nooby stats:**
